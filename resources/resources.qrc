@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/app_icon.png</file>
+        <file>icons/light_mode.png</file>
+        <file>icons/dark_mode.png</file>
+        <file>icons/about_icon.png</file>
+        <file>icons/settings_icon.png</file>
+        <file>icons/stats_icon.png</file>
+        <file>icons/check.png</file>
+        <file>icons/uncheck.png</file>
+    </qresource>
+</RCC>

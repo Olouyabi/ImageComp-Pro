@@ -1,0 +1,13 @@
+{
+    "theme": "dark",
+    "output_dir": "",
+    "compression_quality": 85,
+    "remove_metadata": true,
+    "resize_images": false,
+    "max_width": 1920,
+    "max_height": 1080,
+    "external_optimizer": "",
+    "last_used_folder": "",
+    "language": "fr",
+    "version": "2.1.0"
+}
